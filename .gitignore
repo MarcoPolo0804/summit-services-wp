@@ -7,3 +7,6 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Other projects kept in this folder (each has its own repo)
+carter-clinic-wp/
